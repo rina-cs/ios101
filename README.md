@@ -2,9 +2,9 @@
 
 Submitted by: **Your Name Here**  Xinya Zhou
 
-**Name of your app** is an app that... Toyai
+**Name of your app** is an app that... Bestie AI
 
-Time spent: **8** hours spent in total 
+Time spent: **3** hours spent in total 
 
 ## Required Features
 
@@ -23,7 +23,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+it is tricky to find commit and colore change of the botton.
 
 ## License
 

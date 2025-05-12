@@ -20,6 +20,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+Google map: realtime traffic computing
+Weather: different cities weather
+Note: can put password to the note
+Red: recommendation videos is good
+
 
 ## Notes
 

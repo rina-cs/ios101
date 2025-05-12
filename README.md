@@ -1,4 +1,4 @@
-# Prework - *toy of App Here* toyai
+# Prework - *Bestie AI
 
 Submitted by: **Your Name Here**  Xinya Zhou
 
